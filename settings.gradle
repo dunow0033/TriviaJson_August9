@@ -1,0 +1,2 @@
+rootProject.name = "TriviaJson_August9"
+include ':app'
