@@ -1,4 +1,4 @@
-package com.example.triviajson_august9.model.remote
+package com.example.triviajson_august9.model.remote.models
 
 import com.squareup.moshi.Json
 import com.squareup.moshi.JsonClass

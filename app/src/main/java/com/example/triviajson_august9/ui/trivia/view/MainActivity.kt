@@ -1,7 +1,8 @@
-package com.example.triviajson_august9
+package com.example.triviajson_august9.ui.trivia.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.triviajson_august9.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
